@@ -79,7 +79,7 @@ multiuserchatapp/
 
 ```bash
 git clone https://github.com/keshav-codess/multiuser-chat-app.git
-cd echosphere
+cd multiuser-chat-app
 ```
 
 ---
@@ -121,5 +121,8 @@ UserScreen.java
 ### 👨‍💻 Author
 
 👨‍💻 Made with ❤️ by [Keshav](https://github.com/keshav-codess)
+
+
+
 If you liked this project, consider ⭐ starring the repo and sharing it — _it helps a lot!_
 
