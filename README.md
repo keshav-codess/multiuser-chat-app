@@ -69,7 +69,8 @@ multiuserchatapp/
 
 | Login Screen | Chat Window |
 |--------------|-------------|
-| ![login](assets/login.png) | ![chat](https://your-screenshot-link.com) |
+|<img src="assets/login.png" alt="login" width="250"/>
+ | ![chat](https://your-screenshot-link.com) |
 
 ---
 
