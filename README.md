@@ -8,27 +8,6 @@
   <img src="https://img.shields.io/badge/Eclipse-Project-purple?style=flat-square&logo=eclipse-ide&logoColor=white" />
 </p>
 
----
-
-<details>
-<summary>📁 Project Structure (Click to expand)</summary>
-
-<pre>
-multiuserchatapp/
-├── src/                          # All Java source files
-│   └── com.codess.chatapp/      # Project package
-│       ├── views/               # UI components (Login, Signup, Dashboard)
-│       ├── network/             # Client, Server, Workers
-│       └── utils/               # DB, Config, Helpers
-├── bin/                         # Compiled .class files
-├── mysql-connector-j-9.2.0.jar  # MySQL JDBC driver
-├── .classpath                   # Eclipse classpath config
-├── .project                     # Eclipse project config
-└── README.md                    # You're here!
-</pre>
-
-</details>
-
 
 ---
 
@@ -56,7 +35,24 @@ multiuserchatapp/
 
 ---
 
-<pre> ### 📁 Project Structure ``` multiuserchatapp/ ├── src/ # All Java source files │ └── com.codess.chatapp/ # Project package │ ├── views/ # UI components (Login, Signup, Dashboard) │ ├── network/ # Client, Server, Workers │ └── utils/ # DB, Config, Helpers ├── bin/ # Compiled .class files ├── mysql-connector-j-9.2.0.jar # MySQL JDBC driver ├── .classpath # Eclipse classpath config ├── .project # Eclipse project config └── README.md # You're here! ``` </pre>
+<details>
+<summary>📁 Project Structure (Click to expand)</summary>
+
+<pre>
+multiuserchatapp/
+├── src/                          # All Java source files
+│   └── com.codess.chatapp/      # Project package
+│       ├── views/               # UI components (Login, Signup, Dashboard)
+│       ├── network/             # Client, Server, Workers
+│       └── utils/               # DB, Config, Helpers
+├── bin/                         # Compiled .class files
+├── mysql-connector-j-9.2.0.jar  # MySQL JDBC driver
+├── .classpath                   # Eclipse classpath config
+├── .project                     # Eclipse project config
+└── README.md                    # You're here!
+</pre>
+
+</details>
 
 
 ---
