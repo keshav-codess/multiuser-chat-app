@@ -43,16 +43,17 @@
 ## 📂 Project Structure
 
 multiuserchatapp/
-│
-├── src/ # All Java source files
-│ └── com.codess.chatapp # Project package
-│ ├── views/ # UI components (Login, Signup, Dashboard)
-│ ├── network/ # Client, Server, Workers
-│ └── utils/ # DB, Config, Helpers
-├── bin/ # Compiled .class files
-├── .classpath, .project # Eclipse config files
-├── mysql-connector-j-9.2.0 # MySQL JDBC driver
-└── README.md # You're here!
+├── src/                          # All Java source files
+│   └── com.codess.chatapp/      # Project package
+│       ├── views/               # UI components (Login, Signup, Dashboard)
+│       ├── network/             # Client, Server, Workers
+│       └── utils/               # DB, Config, Helpers
+├── bin/                         # Compiled .class files
+├── mysql-connector-j-9.2.0.jar  # MySQL JDBC driver
+├── .classpath                   # Eclipse classpath config
+├── .project                     # Eclipse project config
+└── README.md                    # You're here!
+
 
 ---
 
