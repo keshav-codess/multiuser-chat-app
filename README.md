@@ -75,26 +75,43 @@ multiuserchatapp/
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/keshav-codess/echosphere.git
 cd echosphere
+```
 
-2. Setup MySQL Database
-Create a database: chatapp
+---
 
-Run the SQL script from your utils package if available (or manually create user table)
+### 2️⃣ Set Up MySQL Database
 
-Update db.config.properties with your credentials
+- Create a database named: `chatapp`
+- Run the SQL script from your `utils/` package (if available)  
+  _or manually create the user table_
+- Update credentials in:
 
-3. Run the App
-Open in Eclipse IDE
+```properties
+utils/db.config.properties
+```
 
-Start the Server.java file
+---
 
-Run LoginScreen.java for each client instance
+### 3️⃣ Run the Application
 
-🙋‍♂️ Author
-Made with ❤️ by Keshav
-If you liked this project, consider ⭐️ starring the repo and sharing it. It helps a lot!
+🔧 **Open the project in Eclipse IDE**
+
+1. Start the `Server.java` file  
+2. For each client instance, run:
+
+```java
+LoginScreen.java
+```
+
+---
+
+### 👨‍💻 Author
+
+Made with ❤️ by **Keshav**  
+If you liked this project, consider ⭐ starring the repo and sharing it — _it helps a lot!_
+
