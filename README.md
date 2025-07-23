@@ -78,7 +78,7 @@ multiuserchatapp/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/keshav-codess/echosphere.git
+git clone https://github.com/keshav-codess/multiuser-chat-app.git
 cd echosphere
 ```
 
@@ -105,13 +105,21 @@ utils/db.config.properties
 2. For each client instance, run:
 
 ```java
-LoginScreen.java
+UserScreen.java
 ```
+
+---
+
+## 🙌 Acknowledgements
+
+- 💻 Java Swing inspiration from [Oracle Swing Docs](https://docs.oracle.com/javase/tutorial/uiswing/)
+- 🐬 JDBC & MySQL Integration from [MySQL Official Docs](https://dev.mysql.com/doc/)
+- ✨ UI Icons & Graphics from [Flaticon](https://www.flaticon.com/)
 
 ---
 
 ### 👨‍💻 Author
 
-Made with ❤️ by **Keshav**  
+👨‍💻 Made with ❤️ by [Keshav](https://github.com/keshav-codess)
 If you liked this project, consider ⭐ starring the repo and sharing it — _it helps a lot!_
 
