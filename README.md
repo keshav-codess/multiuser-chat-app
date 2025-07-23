@@ -8,6 +8,12 @@
   <img src="https://img.shields.io/badge/Eclipse-Project-purple?style=flat-square&logo=eclipse-ide&logoColor=white" />
 </p>
 
+---
+
+## ✨ Overview
+
+**EchoSphere** is a desktop-based group chat application that lets multiple users connect and chat in real-time using a server-client architecture. It features a beautiful GUI built with Java Swing, user authentication via MySQL, and live socket communication.
+
 
 ---
 
