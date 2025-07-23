@@ -65,12 +65,11 @@ multiuserchatapp/
 
 ## 🖼️ Screenshots
 
-> *(Add screenshots here)*
 
 | Login Screen | Chat Window |
 |--------------|-------------|
 |<img src="assets/login.png" alt="login" width="300"/>
- | ![chat](https://your-screenshot-link.com) |
+ | <img src="assets/chat.png" alt="login" width="300"/> |
 
 ---
 
