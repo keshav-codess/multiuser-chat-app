@@ -25,7 +25,7 @@
 - 🧠 Multi-threaded server handling multiple clients
 - 📦 Lightweight and easy to run
 - ⏰ Live date & time in dashboard
-- 💬 Typing/loading animations
+
 
 ---
 
