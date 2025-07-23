@@ -66,10 +66,10 @@ multiuserchatapp/
 ## 🖼️ Screenshots
 
 
-| Login Screen | Chat Window |
-|--------------|-------------|
-|<img src="assets/login.png" alt="login" width="300"/>
- | <img src="assets/chat.png" alt="login" width="300"/> |
+| Login Screen                              | Dashboard                                | Chat Window                              |
+|-------------------------------------------|------------------------------------------|------------------------------------------|
+| <img src="assets/login.png" width="250"/> | <img src="assets/dashboard.png" width="250"/> | <img src="assets/chat.png" width="250"/> |
+
 
 ---
 
