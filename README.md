@@ -10,9 +10,25 @@
 
 ---
 
-## ✨ Overview
+<details>
+<summary>📁 Project Structure (Click to expand)</summary>
 
-**EchoSphere** is a desktop-based group chat application that lets multiple users connect and chat in real-time using a server-client architecture. It features a beautiful GUI built with Java Swing, user authentication via MySQL, and live socket communication.
+<pre>
+multiuserchatapp/
+├── src/                          # All Java source files
+│   └── com.codess.chatapp/      # Project package
+│       ├── views/               # UI components (Login, Signup, Dashboard)
+│       ├── network/             # Client, Server, Workers
+│       └── utils/               # DB, Config, Helpers
+├── bin/                         # Compiled .class files
+├── mysql-connector-j-9.2.0.jar  # MySQL JDBC driver
+├── .classpath                   # Eclipse classpath config
+├── .project                     # Eclipse project config
+└── README.md                    # You're here!
+</pre>
+
+</details>
+
 
 ---
 
